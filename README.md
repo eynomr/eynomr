@@ -1,7 +1,7 @@
 ##### Hi, I'm Ali
 ###### Software/Data Engineer
-Currently working on [Livy](http://livy.so) and Harf
-learning AI Engineering.
+Currently working on [Livy](http://livy.so) and [Harf](https://github.com/eynomr/harf).
+also learning AI Engineering.
 
 
 ##### Skills and Tools  
