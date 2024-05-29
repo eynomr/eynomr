@@ -1,7 +1,6 @@
 ##### Hi, I'm Ali
-###### Software/Data Engineer
-Currently working on [Livy](http://livy.so) and [Harf](https://github.com/eynomr/harf).
-also learning AI Engineering.
+###### Data Engineer
+Currently working on [Livy](http://livy.so).
 
 
 ##### Skills and Tools  
@@ -15,6 +14,16 @@ also learning AI Engineering.
 </ul>
 </details>
 <details>
+<summary>Data Engineering</summary>
+<ul>
+<li>Python (pandas, pySpark, SciPy)</li>
+<li>SQL (MySql, PostgreSql)</li>
+<li>Data Mining</li>
+<li>DAG Tools (Airflow, Dagster, Mage.ai)</li>
+<li>ETL/ELT (dbt, python)</li>
+<li>Data Visualization (Tableau, Sigma, Looker)</li>
+</ul>
+</details>
 <summary>Frameworks</summary>
 <ul>
 <li>Django/Flask</li>
@@ -24,15 +33,7 @@ also learning AI Engineering.
 </ul>
 </details>
 <details>
-<summary>Data Engineering</summary>
-<ul>
-<li>Python (pandas, pySpark, SciPy)</li>
-<li>SQL (MySql, PostgreSql)</li>
-<li>Data Mining</li>
-<li>DAG Tools (Airflow, Dagster, Mage.ai)</li>
-<li>Data Visualization (Tableau, Sigma, Looker)</li>
-</ul>
-</details>
+
 
  ##### Socials  
  <p align="left"> 
