@@ -24,6 +24,7 @@ Currently working on [Livy](http://livy.so).
 <li>Data Visualization (Tableau, Sigma, Looker)</li>
 </ul>
 </details>
+<details>
 <summary>Frameworks</summary>
 <ul>
 <li>Django/Flask</li>
@@ -32,7 +33,6 @@ Currently working on [Livy](http://livy.so).
 <li>Next.js</li>
 </ul>
 </details>
-<details>
 
 
  ##### Socials  
